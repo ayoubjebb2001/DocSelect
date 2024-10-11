@@ -315,8 +315,8 @@ a:focus {
   font-family: 'Merriweather Sans', sans-serif;
   text-transform: uppercase;
   padding: 10px 45px;
-  background-color: #fa15;
-  border: 1px solid #fa15;
+  background-color: #005A9E;
+  border: 1px solid #005A9E;
   border-radius: 5px;
   color: #ffffff;
   margin-top: 15px;
@@ -474,15 +474,15 @@ a:focus {
   font-family: 'Merriweather Sans', sans-serif;
   text-transform: uppercase;
   padding: 10px 45px;
-  background-color: #fa15;
-  border: 1px solid #fa15;
+  background-color: #005A9E;
+  border: 1px solid #005A9E;
   border-radius: 2px;
   color: #ffffff;
 }
 
 .professional_section .detail-box a:hover {
   background-color: transparent;
-  color: #fa15;
+  color: #005A9E;
 }
 
 .service_section {
